@@ -2,6 +2,9 @@
 
 I'm an undergraduate student majoring in Mathematics and Applied Mathematics. My interests lie at the intersection of AI and practical development—specifically, I’ve been diving into deep learning, machine learning, and large language models (LLMs). Lately, I’ve been focusing on honing skills in Agent systems, Retrieval-Augmented Generation (RAG), and LLM fine-tuning. Beyond AI, I also work on general app/software/web development.  
 
+### Honors  
+- **2026 PaddlePaddle Developer Expert** – Recognized for my contributions to WenShape, an AI agent novel writing project.  
+
 ### What I’ve been working on  
 
 - **Open Source & Personal Projects**:  
