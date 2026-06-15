@@ -8,7 +8,7 @@ I'm an undergraduate student majoring in Mathematics and Applied Mathematics. My
 ### What I’ve been working on  
 
 - **Open Source & Personal Projects**:  
-  - **[WenShape](https://github.com/unitagain/WenShape)** – A fully self-developed intelligent agent novel writing project. It has gained 300+ stars and is used by 300+ users.  
+  - **[WenShape](https://github.com/unitagain/WenShape)** – A fully self-developed intelligent agent novel writing project. It has gained 350+ stars and is used by 300+ users.  
   - **[SurfSense](https://github.com/MODSetter/SurfSense)** (10k+ stars) – Contributed by adding support for Chinese domestic LLMs, integrating Chinese search engines, implementing front-end internationalization, and adding support for BookStack.  
 
 - **Kaggle Competitions**:  
